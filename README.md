@@ -1,11 +1,27 @@
 ## Hi there <img width="45" align="center" src="https://emojis.slackmojis.com/emojis/images/1618639623/31011/meow_bongo-keyboard.gif?1618639623" alt="Crazy cat" />
+<p align="right">
+  <img width="35%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image">
+</p>
 
-<img align="right" width="30%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image" />
 
 
-<div>
+## Statistics
+
 <img src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
- </div>
+<div>
+
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cahkei&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true" alt="Keiko's     github stats"/>
+ </p>
+
+</a>
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" margin-left="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahkei&layout=compact&theme=blueberry" alt="Statistic Programming" />
+ </a>
+</p>
+</div>
 <!--
 **cahkei/cahkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
