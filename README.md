@@ -5,21 +5,20 @@
 ### 🌟 Welcome
 
 <p>
-  Rio de Janeiro, <b>Brazil</b>.
+  My name is Camila, aka Keiko, I'm a Environmental Scientist in career transition 👩‍🔬
 </br>
-  I'm currently..
+  I'm currently learning lots of things in Kenzie Week, Hiring Coders #2 (VTEX and Gama Academy) and Santander Bootcamp (by Let's Code and Digital Innovation One) 💻
 </p>
 
 ### :alien: About me
 
 
- 🚀 
+ 🚀 Aiming to be full stack dev
 
- ⚡ 
+ ⚡ Interested in many things as Front and Back end, Data Science and Analysis, etc
 
- 🌱  
+ 🌱  Love to learn and teach
 
- 🏆 
 
 ## 🤍 Find me
 <p align="left">
@@ -33,7 +32,7 @@
 
 
 
-## Statistics
+## :chart_with_upwards_trend: Statistics 
 
 <div>
 <p>
