@@ -1,6 +1,34 @@
-## Hi there <img width="45" align="center" src="https://emojis.slackmojis.com/emojis/images/1618639623/31011/meow_bongo-keyboard.gif?1618639623" alt="Crazy cat" />
-<p align="right">
-  <img width="35%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image">
+# Hi there <img width="65" align="center" src="https://emojis.slackmojis.com/emojis/images/1618639623/31011/meow_bongo-keyboard.gif?1618639623" alt="Crazy cat" />
+<img align="right" width="30%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image">
+
+
+### 🌟 Welcome
+
+<p>
+  Rio de Janeiro, <b>Brazil</b>.
+</br>
+  I'm currently..
+</p>
+
+### :alien: About me
+
+
+ 🚀 
+
+ ⚡ 
+
+ 🌱  
+
+ 🏆 
+
+## 🤍 Find me
+<p align="left">
+<a href="https://www.linkedin.com/in/camilakeikomaeda/" target="_blank">
+  <img align="center" height="28" width="28" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" target="_blank" >
+  </a>  
+  <a href = "mailto:camilakeikosm@gmail.com">
+    <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/85080130/124374881-1e25a500-dc75-11eb-8299-a8fc07eab2ff.png" target="_blank">
+  </a>
 </p>
 
 
@@ -9,13 +37,14 @@
 
 <div>
 <p>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Keiko-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Keiko-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Keiko-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Keiko-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Keiko-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Keiko-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Keiko-Python" height="30" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
+  
 </p>
 </div>
 <div>
