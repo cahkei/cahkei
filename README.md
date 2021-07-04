@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img width="45" align="center" src="https://emojis.slackmojis.com/emojis/images/1618639623/31011/meow_bongo-keyboard.gif?1618639623" alt="Crazy cat" />
+
 
 <!--
 **cahkei/cahkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
