@@ -49,8 +49,8 @@
 </div>
 
   <a href="https://github.com/cahkei">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cahkei&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true" alt="Keiko's     github stats"/>
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahkei&layout=compact&theme=blueberry" alt="Statistic Programming"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=cahkei&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true" alt="Keiko's     github stats"/>
+  <img align="center"  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahkei&layout=compact&theme=blueberry" alt="Statistic Programming"/>
 
 <img src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
 
