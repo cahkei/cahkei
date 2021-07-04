@@ -1,9 +1,10 @@
 ## Hi there <img width="45" align="center" src="https://emojis.slackmojis.com/emojis/images/1618639623/31011/meow_bongo-keyboard.gif?1618639623" alt="Crazy cat" />
 
 <img align="right" width="30%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image" />
+
+
 <div>
-![Snake Gif](https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.gif)
-<img background-color= black align="center" src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.gif" alt="SnaKeiko" />
+<img src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
  </div>
 <!--
 **cahkei/cahkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
