@@ -47,11 +47,11 @@
   
 </p>
 </div>
-<div>
+
   <a href="https://github.com/cahkei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cahkei&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true" alt="Keiko's     github stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahkei&layout=compact&theme=blueberry" alt="Statistic Programming"/>
-</div>
+
 <img src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
 
 
