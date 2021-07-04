@@ -2,8 +2,9 @@
 
 <img align="right" width="30%" src=https://plus-app.studos.com.br/images/login.png alt="Computer Image" />
 <div>
-![Snake animation](https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![Snake Gif](https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.gif)
+<img background-color= black align="center" src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.gif" alt="SnaKeiko" />
+ </div>
 <!--
 **cahkei/cahkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
